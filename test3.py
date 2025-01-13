@@ -3,12 +3,7 @@ b=6
 print(a+b)
 
 # %%
-import os 
-# %%
-a=8 
-print('ee')
+print("This is a code cell")
 
 # %%
-print('aa')
-# %%
-print('dodatak1')
+print("This is another code cell")
